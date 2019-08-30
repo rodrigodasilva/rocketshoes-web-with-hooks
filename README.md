@@ -1,8 +1,11 @@
-## Modulo 7 Bootcamp Rocketseat - Arquitetura Flux
+## Modulo 8 Bootcamp Rocketseat - Arquitetura Flux utilizando React Hooks
 
-Para rodar o projeto:
+- Como rodar:
 
-1. Inicie o serviço que 'json-server', que simula os dados vindos da Api
-   > npx json-server server.json -p 3333
-2. Startamos o ReactJS
-   > yarn start
+Carregar as dependências
+
+> yarn
+
+Rodar o projeto
+
+> yarn start
