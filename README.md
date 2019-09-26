@@ -19,7 +19,7 @@ RocketShoes Web
 </div>
 
 Esta aplicação foi desenvolvida durante o módulo 8 do Bootcamp da Rocketseat para fixação dos conceitos dos Hooks, que foram recentemente adicionados a arquitetura do React.
-Para tanto, criamos um sistema em ReacJS que chamamos de Rocketshoes, nele o usuário tem a opção de adicionar e remover produtos ao carrinho, simulando assim, uma das funcionalidades de uma loja virtual.
+Para tanto, criamos um sistema em ReactJS que chamamos de Rocketshoes, nele o usuário tem a opção de adicionar e remover produtos ao carrinho, simulando assim, uma das funcionalidades de uma loja virtual.
 
 ## Tecnologias utilizadas
 
